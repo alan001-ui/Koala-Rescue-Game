@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Input
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Input\ here.\r\n\r\n\ @author\ (QiJun\ Zhai)\r\n\ @version\ (21/10/2019)\r\n
+comment1.params=
+comment1.target=Input()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Input\r\n
+comment2.params=tips
+comment2.target=int\ numberMassage(java.lang.String)
+comment2.text=\r\n\ get\ a\ integer\ message\ from\ user\r\n\ @param\ tips\ String\ to\ give\ user\ suggestion\r\n\ @return\ user\ int\ enter\ information\r\n
+comment3.params=tips
+comment3.target=java.lang.String\ stringMassage(java.lang.String)
+comment3.text=\r\n\ get\ a\ String\ message\ from\ user\r\n\ @param\ tips\ String\ to\ give\ user\ suggestion\r\n\ @return\ user\ String\ enter\ information\r\n
+numComments=4

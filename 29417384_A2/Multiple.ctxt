@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Multiple
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Multiple\ here.\r\n\r\n\ @author\ (QiJun\ Zhai)\r\n\ @version\ (21/10/2019)\r\n
+comment1.params=
+comment1.target=Multiple()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Multiple\r\n
+comment2.params=value
+comment2.target=Multiple(int)
+comment2.text=\r\n\ Non\ Default\ Constructor\ for\ objects\ of\ Multiple\r\n\ @param\ value\ to\ define\ int\ value\r\n
+comment3.params=
+comment3.target=java.lang.String\ displayValue()
+comment3.text=\r\n\ Method\ to\ display\ value\r\n
+comment4.params=
+comment4.target=int\ getValue()
+comment4.text=\r\n\ Accessor\ method\ to\ get\ a\ value\r\n\ @return\ value\r\n
+comment5.params=newValue
+comment5.target=void\ setValue(int)
+comment5.text=\r\n\ \ Mutator\ method\ to\ set\ value\r\n\ \ @param\ a\ single\ object\ which\ contains\ the\ newValue\r\n
+numComments=6

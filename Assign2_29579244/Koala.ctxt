@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Koala
+comment0.text=\n\ Write\ a\ description\ of\ class\ Koala\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Koala()
+comment10.params=
+comment10.target=int\ getPredator()
+comment2.params=healthyKoala\ injuredKoala\ year\ predator
+comment2.target=Koala(int,\ int,\ int,\ int)
+comment3.params=healthyKoala
+comment3.target=void\ setHealthyKoala(int)
+comment4.params=
+comment4.target=int\ getHealthyKoala()
+comment5.params=injuredKoala
+comment5.target=void\ setInjuredKoala(int)
+comment6.params=
+comment6.target=int\ getInjuredKoala()
+comment7.params=year
+comment7.target=int\ setYear(int)
+comment8.params=
+comment8.target=int\ getYear()
+comment9.params=predator
+comment9.target=void\ setPredator(int)
+numComments=11

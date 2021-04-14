@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ObservationPoint
+comment0.text=\n\ Write\ a\ description\ of\ class\ ObservationPoint\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=ObservationPoint()
+comment2.params=trees\ koalas
+comment2.target=ObservationPoint(Tree,\ Koala)
+comment3.params=trees
+comment3.target=void\ setTrees(Tree)
+comment4.params=
+comment4.target=Tree\ getTrees()
+comment5.params=koalas
+comment5.target=void\ setKoalas(Koala)
+comment6.params=
+comment6.target=Koala\ getKoalas()
+numComments=7

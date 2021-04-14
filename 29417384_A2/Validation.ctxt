@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Validation
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Validation\ here.\r\n\r\n\ @author\ (QiJun\ Zhai)\r\n\ @version\ (21/10/2019)\r\n
+comment1.params=
+comment1.target=Validation()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Validation\r\n
+comment2.params=value
+comment2.target=boolean\ stringIsBlank(java.lang.String)
+comment2.text=\r\n\ judge\ whether\ a\ string\ value\ is\ empty\ or\ not\r\n\ @return\ blank\r\n
+comment3.params=value\ min\ max
+comment3.target=boolean\ stringLengthIsRight(java.lang.String,\ int,\ int)
+comment3.text=\r\n\ judge\ whether\ a\ string\ value\ between\ min\ and\ max\r\n\ \ @return\ lengthRight\r\n
+numComments=4

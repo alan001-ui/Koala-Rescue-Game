@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=FileIO
+comment0.text=\n\ Write\ a\ description\ of\ class\ FileIO\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=FileIO()
+comment2.params=fileName
+comment2.target=FileIO(java.lang.String)
+comment3.params=fileName
+comment3.target=void\ fileReader(java.lang.String)
+comment4.params=
+comment4.target=void\ fileWriter()
+comment5.params=
+comment5.target=java.lang.String\ getFileName()
+comment6.params=fileName
+comment6.target=void\ setFileName(java.lang.String)
+numComments=7

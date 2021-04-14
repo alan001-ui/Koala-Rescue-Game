@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=FileIO
+comment0.text=\r\n\ Class\ to\ read\ and\ write\ a\ string\ to\ a\ file\r\n\r\n\ @author\ <<QiJun\ Zhai>>\r\n\ @version\ <<21/10/2019>>\r\n
+comment1.params=
+comment1.target=FileIO()
+comment1.text=\r\n\ Default\ constructor\ to\ initialize\ the\ object\ of\ the\ FileIO\ class\r\n\ \r\n
+comment2.params=fileName
+comment2.target=FileIO(java.lang.String)
+comment2.text=\r\n\ Non\ default\ constructor\ to\ initialize\ the\ object\ of\ the\ FileIO\ class\r\n\ @param\ newFileName\ Name\ of\ the\ file\ to\ be\ read\ or\ written\ to\r\n
+comment3.params=fileName
+comment3.target=java.lang.String\ fileReader(java.lang.String)
+comment3.text=\r\n\ Method\ to\ read\ the\ contents\ from\ the\ file\r\n\ @return\ A\ entire\ contents\ of\ the\ file\ represented\ as\ a\ single\ string.\ New\ lines\ are\ delimited\ with\ a\ \\n\r\n
+comment4.params=fileName\ playerName\ gameResult
+comment4.target=void\ fileWriter(java.lang.String,\ java.lang.String,\ int)
+comment4.text=\r\n\ Method\ to\ write\ the\ contents\ to\ a\ file\r\n\ @param\ contents\ Complete\ string\ which\ is\ to\ be\ written\ to\ the\ file.\ New\ lines\ need\ to\ be\ delimited\ with\ a\ \\n\r\n
+comment5.params=
+comment5.target=java.lang.String\ getFileName()
+comment5.text=\r\n\ Accessor\ Method\ to\ get\ the\ filename\r\n\ @return\ A\ single\ string\ which\ represents\ the\ file\ name\ being\ read\ or\ written\ to\r\n
+comment6.params=fileName
+comment6.target=void\ setFileName(java.lang.String)
+comment6.text=\r\n\ Mutator\ Method\ to\ set\ the\ filename\r\n\ @param\ newFileName\ Name\ of\ the\ file\ to\ be\ read\ or\ written\ to\r\n
+numComments=7
